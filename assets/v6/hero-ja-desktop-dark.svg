@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" width="960" height="300" role="img"><title>MinXuan · 台湾・小琉球出身のウェブ開発者</title><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1d2a"/><stop offset=".76" stop-color="#142e40"/><stop offset="1" stop-color="#0e324a"/></linearGradient><linearGradient id="shine" x1="0" x2="1"><stop stop-color="#5bbce2"/><stop offset=".5" stop-color="#b5eeff"/><stop offset="1" stop-color="#5bbce2"/></linearGradient></defs>
+<rect x="1" y="1" width="958" height="298" rx="16" fill="url(#bg)" stroke="#29485a" stroke-width="2"/>
+<g stroke="#27506a" stroke-width="1.5" fill="none"><circle cx="970" cy="-35" r="217"><animate attributeName="r" values="210;229;210" dur="7s" repeatCount="indefinite"/></circle><circle cx="970" cy="-35" r="269"><animate attributeName="r" values="269;281;269" dur="9s" repeatCount="indefinite"/></circle><circle cx="-15" cy="312" r="99"><animate attributeName="r" values="99;116;99" dur="8s" repeatCount="indefinite"/></circle></g>
+<g text-anchor="middle" font-family="Arial,Helvetica,Noto Sans TC,Noto Sans JP,Noto Sans KR,sans-serif"><text x="480" y="65" font-weight="800" font-size="17" fill="#5bbce2" letter-spacing="4">WELCOME TO MY GITHUB<animate attributeName="opacity" values="1;.62;1" dur="3.6s" repeatCount="indefinite"/></text>
+<path d="M326 79 h308" stroke="#27506a" stroke-width="2"/>
+<path d="M326 79 h120" stroke="#5bbce2" stroke-width="3" stroke-linecap="round"><animateTransform attributeName="transform" type="translate" values="0 0;188 0;0 0" dur="4s" repeatCount="indefinite"/></path>
+<text x="480" y="147" font-weight="800" font-size="44" fill="#ecf7fc">こんにちは、 玟珄です</text>
+<text x="480" y="191" font-size="23" font-weight="650" fill="url(#shine)">Developer · Creator · Founder<animate attributeName="opacity" values="1;.72;1" dur="5s" repeatCount="indefinite"/></text>
+<line x1="443" x2="517" y1="203" y2="203" stroke="#5bbce2" stroke-width="2.5"><animate attributeName="stroke-dasharray" values="8 66;74 0;8 66" dur="4s" repeatCount="indefinite"/></line>
+<text x="480" y="248" font-size="23" fill="#e5f2f9" font-weight="600">台湾・小琉球出身のウェブ開発者</text>
+<text x="480" y="277" font-size="20" fill="#acc7d7">デザインとプログラミングで、情報をもっと使いやすく。</text></g>
+<circle cx="66" cy="279" r="3" fill="#5bbce2"><animate attributeName="cx" values="66;890;66" dur="14s" repeatCount="indefinite"/></circle></svg>
