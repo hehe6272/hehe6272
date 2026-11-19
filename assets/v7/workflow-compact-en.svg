@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="116" viewBox="0 0 960 116" role="img">
+<title>Identify → Solve → Organize → Design → Improve</title>
+<desc>Compact five-step development workflow, spaced to prevent text and numbering overlap.</desc>
+<defs><linearGradient id="tile" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#073e5c"/><stop offset="1" stop-color="#006b92"/></linearGradient></defs>
+<path d="M190 58 H205 m-5 -4 5 4 -5 4" fill="none" stroke="#389fc4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cy="58" r="2" fill="#79d4f2"><animate attributeName="cx" values="190;205;190" dur="2.6s" repeatCount="indefinite"/></circle>
+<path d="M378 58 H393 m-5 -4 5 4 -5 4" fill="none" stroke="#389fc4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cy="58" r="2" fill="#79d4f2"><animate attributeName="cx" values="378;393;378" dur="2.9s" repeatCount="indefinite"/></circle>
+<path d="M566 58 H581 m-5 -4 5 4 -5 4" fill="none" stroke="#389fc4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cy="58" r="2" fill="#79d4f2"><animate attributeName="cx" values="566;581;566" dur="3.2s" repeatCount="indefinite"/></circle>
+<path d="M754 58 H769 m-5 -4 5 4 -5 4" fill="none" stroke="#389fc4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cy="58" r="2" fill="#79d4f2"><animate attributeName="cx" values="754;769;754" dur="3.5s" repeatCount="indefinite"/></circle>
+<g>
+<rect x="20" y="20" width="168" height="76" rx="11" fill="url(#tile)" stroke="#3f9ec5" stroke-width="1.3"/>
+<path d="M30 24H178" stroke="#a2e1f2" stroke-opacity=".32" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="47" cy="58" r="16" fill="#ffffff" fill-opacity=".12" stroke="#8ccee4" stroke-width="1.2"/>
+<text x="47" y="64" font-size="16" font-weight="800" text-anchor="middle" fill="#edfaff" font-family="Arial,Helvetica,sans-serif">01</text>
+<text x="72" y="64" font-size="18" font-weight="700" fill="#ffffff" font-family="Arial,Noto Sans TC,Noto Sans JP,Noto Sans KR,sans-serif">Identify</text>
+</g>
+<g>
+<rect x="208" y="20" width="168" height="76" rx="11" fill="url(#tile)" stroke="#3f9ec5" stroke-width="1.3"/>
+<path d="M218 24H366" stroke="#a2e1f2" stroke-opacity=".32" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="235" cy="58" r="16" fill="#ffffff" fill-opacity=".12" stroke="#8ccee4" stroke-width="1.2"/>
+<text x="235" y="64" font-size="16" font-weight="800" text-anchor="middle" fill="#edfaff" font-family="Arial,Helvetica,sans-serif">02</text>
+<text x="260" y="64" font-size="18" font-weight="700" fill="#ffffff" font-family="Arial,Noto Sans TC,Noto Sans JP,Noto Sans KR,sans-serif">Solve</text>
+</g>
+<g>
+<rect x="396" y="20" width="168" height="76" rx="11" fill="url(#tile)" stroke="#3f9ec5" stroke-width="1.3"/>
+<path d="M406 24H554" stroke="#a2e1f2" stroke-opacity=".32" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="423" cy="58" r="16" fill="#ffffff" fill-opacity=".12" stroke="#8ccee4" stroke-width="1.2"/>
+<text x="423" y="64" font-size="16" font-weight="800" text-anchor="middle" fill="#edfaff" font-family="Arial,Helvetica,sans-serif">03</text>
+<text x="448" y="64" font-size="18" font-weight="700" fill="#ffffff" font-family="Arial,Noto Sans TC,Noto Sans JP,Noto Sans KR,sans-serif">Organize</text>
+</g>
+<g>
+<rect x="584" y="20" width="168" height="76" rx="11" fill="url(#tile)" stroke="#3f9ec5" stroke-width="1.3"/>
+<path d="M594 24H742" stroke="#a2e1f2" stroke-opacity=".32" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="611" cy="58" r="16" fill="#ffffff" fill-opacity=".12" stroke="#8ccee4" stroke-width="1.2"/>
+<text x="611" y="64" font-size="16" font-weight="800" text-anchor="middle" fill="#edfaff" font-family="Arial,Helvetica,sans-serif">04</text>
+<text x="636" y="64" font-size="18" font-weight="700" fill="#ffffff" font-family="Arial,Noto Sans TC,Noto Sans JP,Noto Sans KR,sans-serif">Design</text>
+</g>
+<g>
+<rect x="772" y="20" width="168" height="76" rx="11" fill="url(#tile)" stroke="#3f9ec5" stroke-width="1.3"/>
+<path d="M782 24H930" stroke="#a2e1f2" stroke-opacity=".32" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="799" cy="58" r="16" fill="#ffffff" fill-opacity=".12" stroke="#8ccee4" stroke-width="1.2"/>
+<text x="799" y="64" font-size="16" font-weight="800" text-anchor="middle" fill="#edfaff" font-family="Arial,Helvetica,sans-serif">05</text>
+<text x="824" y="64" font-size="18" font-weight="700" fill="#ffffff" font-family="Arial,Noto Sans TC,Noto Sans JP,Noto Sans KR,sans-serif">Improve</text>
+</g>
+</svg>

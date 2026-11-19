@@ -61,7 +61,7 @@ My projects are centered around **LiuqiuNow**, a set of real-time local informat
 
 ## Development Process
 
-**Identify problems → Solve needs → Organize data → Improve UX → Launch & refine**
+<p align="center"><img src="../assets/v7/workflow-compact-en.svg" width="100%" alt="Identify → Solve → Organize → Design → Improve"></p>
 
 I identify real needs, develop practical solutions, verify and organize data, design intuitive interfaces, and keep improving after launch.
 
