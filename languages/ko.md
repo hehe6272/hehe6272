@@ -24,31 +24,39 @@
 
 ## 기술 및 도구
 
-### 프런트엔드
-
+<table>
+<tr>
+<td width="50%" valign="top">
+<strong>프런트엔드</strong>
 <p><span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="" width="21" height="21"> HTML5</span> &nbsp; · &nbsp; <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="" width="21" height="21"> CSS3</span> &nbsp; · &nbsp; <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="" width="21" height="21"> JavaScript</span> &nbsp; · &nbsp; <span><img src="../assets/icons/responsive.svg" alt="" width="21" height="21"> RWD</span></p>
-
-### 개발 및 배포
-
+</td>
+<td width="50%" valign="top">
+<strong>개발 및 배포</strong>
 <p><span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="" width="21" height="21"> VS Code</span> &nbsp; · &nbsp; <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="" width="21" height="21"> Git</span> &nbsp; · &nbsp; <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="" width="21" height="21"> GitHub</span> &nbsp; · &nbsp; <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="" width="21" height="21"> Cloudflare</span> &nbsp; · &nbsp; <span><img src="../assets/icons/workers.svg" alt="" width="21" height="21"> Workers</span></p>
-
-### 데이터 연동
-
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong>데이터 연동</strong>
 <p><span><img src="../assets/icons/gas.svg" alt="" width="21" height="21"> Apps Script</span> &nbsp; · &nbsp; <span><img src="../assets/icons/api.svg" alt="" width="21" height="21"> REST API</span> &nbsp; · &nbsp; <span><img src="../assets/icons/json.svg" alt="" width="21" height="21"> JSON</span> &nbsp; · &nbsp; <span><img src="../assets/icons/sheets.svg" alt="" width="21" height="21"> Google Sheets</span> &nbsp; · &nbsp; <span><img src="../assets/icons/pwa.svg" alt="" width="21" height="21"> PWA</span></p>
-
-### 디자인 및 영상
-
+</td>
+<td width="50%" valign="top">
+<strong>디자인 및 영상</strong>
 <p><span><img src="../assets/icons/photoshop.svg" alt="" width="21" height="21"> Photoshop</span> &nbsp; · &nbsp; <span><img src="../assets/icons/premiere.svg" alt="" width="21" height="21"> Premiere Pro</span> &nbsp; · &nbsp; <span><img src="../assets/icons/illustrator.svg" alt="" width="21" height="21"> Illustrator</span> &nbsp; · &nbsp; <span><img src="../assets/icons/lightroom.svg" alt="" width="21" height="21"> Lightroom</span></p>
-
-### 웹 최적화
-
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong>웹 최적화</strong>
 <p><span><img src="../assets/icons/seo.svg" alt="" width="21" height="21"> SEO / GEO</span> &nbsp; · &nbsp; <span><img src="../assets/icons/uiux.svg" alt="" width="21" height="21"> UI/UX</span> &nbsp; · &nbsp; <span><img src="../assets/icons/responsive.svg" alt="" width="21" height="21"> Responsive Design</span> &nbsp; · &nbsp; <span><img src="../assets/icons/api.svg" alt="" width="21" height="21"> API Integration</span></p>
-
-### 학습 및 도입 중
-
+</td>
+<td width="50%" valign="top">
+<strong>학습 및 도입 중</strong>
 <p><span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="" width="21" height="21"> Python</span> &nbsp; · &nbsp; <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="" width="21" height="21"> Firebase</span></p>
-
 <sub>Python: 학습 중; Firebase: 도입 및 연동 중.</sub>
+</td>
+</tr>
+</table>
 
 ## 주요 프로젝트
 

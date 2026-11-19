@@ -24,31 +24,39 @@
 
 ## 技術とツール
 
-### フロントエンド
-
+<table>
+<tr>
+<td width="50%" valign="top">
+<strong>フロントエンド</strong>
 <p><span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="" width="21" height="21"> HTML5</span> &nbsp; · &nbsp; <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="" width="21" height="21"> CSS3</span> &nbsp; · &nbsp; <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="" width="21" height="21"> JavaScript</span> &nbsp; · &nbsp; <span><img src="../assets/icons/responsive.svg" alt="" width="21" height="21"> RWD</span></p>
-
-### 開発とデプロイ
-
+</td>
+<td width="50%" valign="top">
+<strong>開発とデプロイ</strong>
 <p><span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="" width="21" height="21"> VS Code</span> &nbsp; · &nbsp; <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="" width="21" height="21"> Git</span> &nbsp; · &nbsp; <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="" width="21" height="21"> GitHub</span> &nbsp; · &nbsp; <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="" width="21" height="21"> Cloudflare</span> &nbsp; · &nbsp; <span><img src="../assets/icons/workers.svg" alt="" width="21" height="21"> Workers</span></p>
-
-### データ連携
-
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong>データ連携</strong>
 <p><span><img src="../assets/icons/gas.svg" alt="" width="21" height="21"> Apps Script</span> &nbsp; · &nbsp; <span><img src="../assets/icons/api.svg" alt="" width="21" height="21"> REST API</span> &nbsp; · &nbsp; <span><img src="../assets/icons/json.svg" alt="" width="21" height="21"> JSON</span> &nbsp; · &nbsp; <span><img src="../assets/icons/sheets.svg" alt="" width="21" height="21"> Google Sheets</span> &nbsp; · &nbsp; <span><img src="../assets/icons/pwa.svg" alt="" width="21" height="21"> PWA</span></p>
-
-### デザイン・映像
-
+</td>
+<td width="50%" valign="top">
+<strong>デザイン・映像</strong>
 <p><span><img src="../assets/icons/photoshop.svg" alt="" width="21" height="21"> Photoshop</span> &nbsp; · &nbsp; <span><img src="../assets/icons/premiere.svg" alt="" width="21" height="21"> Premiere Pro</span> &nbsp; · &nbsp; <span><img src="../assets/icons/illustrator.svg" alt="" width="21" height="21"> Illustrator</span> &nbsp; · &nbsp; <span><img src="../assets/icons/lightroom.svg" alt="" width="21" height="21"> Lightroom</span></p>
-
-### ウェブ最適化
-
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong>ウェブ最適化</strong>
 <p><span><img src="../assets/icons/seo.svg" alt="" width="21" height="21"> SEO / GEO</span> &nbsp; · &nbsp; <span><img src="../assets/icons/uiux.svg" alt="" width="21" height="21"> UI/UX</span> &nbsp; · &nbsp; <span><img src="../assets/icons/responsive.svg" alt="" width="21" height="21"> Responsive Design</span> &nbsp; · &nbsp; <span><img src="../assets/icons/api.svg" alt="" width="21" height="21"> API Integration</span></p>
-
-### 学習・導入中
-
+</td>
+<td width="50%" valign="top">
+<strong>学習・導入中</strong>
 <p><span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="" width="21" height="21"> Python</span> &nbsp; · &nbsp; <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="" width="21" height="21"> Firebase</span></p>
-
 <sub>Python：学習中；Firebase：連携・導入中。</sub>
+</td>
+</tr>
+</table>
 
 ## 主なプロジェクト
 
